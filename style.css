@@ -3,7 +3,7 @@ body {
   background-color: white;
   padding: 20px;
   color: #333;
-  font-size: 18px;
+  font-size: 14px;
   line-height: 1.7;
   margin: 0;
 }
@@ -21,7 +21,7 @@ header {
 
 header h1 {
   margin: 0;
-  font-size: 28px;
+  font-size: 24px;
   color: #003366;
 }
 
@@ -37,7 +37,7 @@ nav a {
   text-decoration: none;
   font-weight: bold;
   padding: 8px 14px;
-  font-size: 16px;
+  font-size: 12px;
   border: 2px solid #003366;
   border-radius: 6px;
   transition: 0.3s;
@@ -58,14 +58,14 @@ a.disabled {
 
 h1 {
   color: #003366;
-  font-size: 30px;
+  font-size: 26px;
   margin-top: 30px;
   text-align: center;
 }
 
 h2 {
   color: #003366;
-  font-size: 22px;
+  font-size: 18px;
   margin-top: 25px;
 }
 
@@ -85,7 +85,7 @@ a.page-link {
   color: #003366;
   font-weight: bold;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 12px;
   display: inline-block;
   margin-top: 30px;
   border: 2px solid #003366;
@@ -109,7 +109,7 @@ footer {
 
 footer p {
   margin: 0;
-  font-size: 15px;
+  font-size: 11px;
   color: #003366;
 }
 
@@ -120,7 +120,7 @@ footer p {
   }
 
   header h1 {
-    font-size: 24px;
+    font-size: 20px;
     margin-bottom: 10px;
   }
 
@@ -133,28 +133,28 @@ footer p {
   nav a {
     width: 100%;
     text-align: left;
-    font-size: 15px;
+    font-size: 11px;
     padding: 8px 10px;
   }
 
   body {
-    font-size: 16px;
+    font-size: 12px;
   }
 
   h1 {
-    font-size: 26px;
+    font-size: 22px;
   }
 
   h2 {
-    font-size: 20px;
+    font-size: 16px;
   }
 
   a.page-link {
-    font-size: 15px;
+    font-size: 11px;
     padding: 8px 14px;
   }
 
   footer p {
-    font-size: 14px;
+    font-size: 10px;
   }
 }
