@@ -126,15 +126,24 @@ footer p {
 
   nav {
     flex-direction: column;
-    align-items: flex-start;
+    align-items: stretch;
     width: 100%;
   }
 
   nav a {
     width: 100%;
-    text-align: left;
-    font-size: 11px;
-    padding: 8px 10px;
+    text-align: center;
+    font-size: 13px;
+    padding: 12px 0;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    background-color: #003366;
+    color: white;
+    border: none;
+  }
+
+  nav a:hover {
+    background-color: #002244;
   }
 
   body {
